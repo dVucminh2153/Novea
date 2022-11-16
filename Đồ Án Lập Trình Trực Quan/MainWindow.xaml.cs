@@ -24,5 +24,7 @@ namespace Đồ_Án_Lập_Trình_Trực_Quan
         {
             InitializeComponent();
         }
+
+        
     }
 }
